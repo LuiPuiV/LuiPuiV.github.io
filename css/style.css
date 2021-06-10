@@ -82,3 +82,8 @@ article img {
 article:nth-child(even) {
     background-color: rgb(252, 200, 200);
 }
+
+.newmews:before{
+    content: 'New';
+    display: block;
+}
